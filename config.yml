@@ -22,7 +22,7 @@ params:
     page on Twitter' href='https://www.twitter.com/example'>on Twitter</a> or
     subscribe to <a class='text-grey-darkest' href='%s' >RSS</a><br />to be
     alerted of new events.
-  copyrightHolder: Loop Logistic SAS
+  copyrightHolder: © Copyright Loop Logistics S.A.S. 2021
   eventsPerPage: 10
   iconType: image/png
   groups:
