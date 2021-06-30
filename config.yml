@@ -6,12 +6,22 @@ params:
   meta_description: This status page provides updated information about our
     systems normal operation, incidents that may happen and their resolution.
   systems:
-    - name: Website
-      description: Our company public facing website
-      link: https://www.example.com/
-    - name: Helpdesk
-      description: Our company customer support site
-      link: https://support.example.com/
+    - name: e-commerce frontend
+      description: ""
+      link: ""
+      group: Rental
+    - name: e-commerce API & Admin
+      description: ""
+      link: ""
+      group: Rental
+    - group: Logistic
+      name: Logistic API
+    - name: Logistic App
+      group: Logistic
+    - name: Data API
+      group: Data
+    - name: Data App
+      group: Data
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: Europe/Paris
