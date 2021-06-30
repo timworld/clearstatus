@@ -32,7 +32,7 @@ params:
     href='https://www.linkedin.com/company/lizee-sas/'>on Linkedin</a> or
     subscribe to <a class='text-grey-darkest' href='%s' >RSS</a><br />to be
     alerted of new events.
-  copyrightHolder: © Copyright Loop Logistics S.A.S. 2021
+  copyrightHolder: Loop Logistics S.A.S.
   eventsPerPage: 10
   iconType: image/png
   groups:
