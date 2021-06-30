@@ -25,7 +25,7 @@ params:
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: Europe/Paris
-  logo: /static/images/uploads/lizee1.png
+  logo: /images/uploads/lizee1.png
   description_header: Get more info about us at <a class='text-grey-darkest'
     title='Visit lizee.co' href='https://lizee.co/'>lizee.co</a>.<br />Follow us
     <a class='text-grey-darkest' title='Visit our page on Linkedin'
